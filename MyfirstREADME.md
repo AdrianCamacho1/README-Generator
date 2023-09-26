@@ -6,9 +6,11 @@
    # Table of Contents:
 
    * [Motivation](#Motivation for creating this app?)
-
+   A
     
     [License](#License) 
+    GNU AGPLv3
+
    * [Why was this made?](#Why)
     A
 

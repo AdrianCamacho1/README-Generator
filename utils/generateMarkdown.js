@@ -54,9 +54,11 @@ function generateMarkdown(userResponses) {
    # Table of Contents:
 
    * [Motivation](#Motivation for creating this app?)
-
+   ${userResponses.Motivation}
     
     ${renderLicenseLink(userResponses.license)} 
+    ${userResponses.license}
+
    * [Why was this made?](#Why)
     ${userResponses.Why}
 
