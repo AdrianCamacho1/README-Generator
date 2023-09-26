@@ -1,41 +1,45 @@
 
-   ![GitHub repo language badge](https://img.shields.io/github/languages/top/a/a?style=flat&logo=appveyor)
-   * [License](#license)
-   none
+   ![GitHub repo language badge](https://img.shields.io/github/languages/top/A/A?style=flat&logo=appveyor)
+   
+   ![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)
 
    # Table of Contents:
 
-   * [Motivation](#Motivation)
+   * [Motivation](#Motivation for creating this app?)
 
     
-     
-   * [The Why](#Why)
+    [License](#License) 
+   * [Why was this made?](#Why)
+    A
 
-   * [Lessons Learned](#Lessons)
+    * [What was the motivation?](#Motivation)
+    A
 
    * [Why is it special?](#Special)
-   
-   - [What is this projects title?]
-   a
-   - [Motivation for creating this app?]
-  a
-  
-  - [Why create this app?]
-  a
+   A
 
-  - [Lessons learned creating this app?]
+   - [What is this projects title?]
+   A
+
+    #Motivation for creating this app?
+  A
+  
+  - [Why did you want to create this app?]
+  A
+
+  - [what lessons were learned creating this app?]
   undefined
 
-  - [What makes this project special?]
-  a
+  - [What makes this project stand out?]
+  A
 
   - [Github Username]
-  a
+  A
 
   - [Repo link:]
-  a
+  A
 
   - [License used]
-  none
-
+  GNU AGPLv3
+  #Motivation
   
